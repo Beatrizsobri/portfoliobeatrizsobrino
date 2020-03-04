@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-react-project"]=this["webpackJsonpmy-react-project"]||[]).push([[0],{12:function(e,t,n){e.exports=n(19)},17:function(e,t,n){},19:function(e,t,n){"use strict";n.r(t);var a=n(1),r=n.n(a),c=n(6),o=n.n(c),i=(n(17),n(10));var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("div",{style:{width:"100vw",height:"100vh"}},r.a.createElement(i.a,null)))};o.a.render(r.a.createElement(l,null),document.getElementById("root"))}},[[12,1,2]]]);
+//# sourceMappingURL=main.5065bb13.chunk.js.map

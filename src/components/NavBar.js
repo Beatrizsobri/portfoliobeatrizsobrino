@@ -9,18 +9,18 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 function NavBar() {
     return (
-        <header id="header" class="alt">
+        <header id="header" className="alt">
             <nav >
                 <ul>
                     <li >
                         <a href="#menu" ><FontAwesomeIcon icon={faBars} /></a>
                         <div >
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="generic.html">Generic</a></li>
-                                <li><a href="elements.html">Elements</a></li>
-                                <li><a href="#">Sign Up</a></li>
-                                <li><a href="#">Log In</a></li>
+                                <li><a>Home</a></li>
+                                <li><a>Generic</a></li>
+                                <li><a>Elements</a></li>
+                                <li><a>Sign Up</a></li>
+                                <li><a>Log In</a></li>
                             </ul>
                         </div>
                     </li>
